@@ -1,6 +1,6 @@
 # M5Stack_PS1Boot
 
-Recreates a PS1 boot screen.
+Recreates a PS1 boot screen, including the audio.
 
 It takes only 343Kb (compressed) for this classic effect, so even on a small 4MB flash version of the M5Stack core, that leaves 91% free!
 
