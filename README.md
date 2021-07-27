@@ -9,3 +9,5 @@ The 2 logos are PNG's converted to raw RBG565 via another online service, imageT
 I then used my online "Arduino PROGMEM file converter / creator V.1.0" to turn the Audacity 8 unsigned bit, 20,000 samples/s audio file into a header file for the Arduino IDE. https://codepen.io/SarahC/pen/dyWZLBG
 
 It really needs the little orange blocks animating at the begining. The audio's run on CPU 2, so it wont mess up the audio speed when it's coded.
+
+![image](https://user-images.githubusercontent.com/1586332/127123307-7bc01f9d-65e6-4e5d-b731-8a6a58a78685.png)
